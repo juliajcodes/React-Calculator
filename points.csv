@@ -1,6 +1,6 @@
 ,rallyid,server,returner,winner,reason,serve,strokes,totaltime,x,y,score
 0,1,Djokovic,Nadal,Djokovic,winner,first,3,0.92,1.92,21.96,"0:0, 15:0"
-0,1,Djokovic,Nadal,Djokovic,winner,first,3,0.92,0.0,0.0,"0:0, 15:0"
+0,1,Djokovic,Nadal,Djokovic,winner,first,3,0.92,-5.0,-5.0,"0:0, 15:0"
 2,3,Djokovic,Nadal,Djokovic,out,second,4,4.159999999999997,3.33,-0.39,"0:0, 30:0"
 4,5,Djokovic,Nadal,Djokovic,ace,second,2,0.3999999999999915,1.62,17.18,"0:0, 40:0"
 5,6,Djokovic,Nadal,Djokovic,net,first,10,10.400000000000006,6.41,12.78,"1:0, 0:0"
